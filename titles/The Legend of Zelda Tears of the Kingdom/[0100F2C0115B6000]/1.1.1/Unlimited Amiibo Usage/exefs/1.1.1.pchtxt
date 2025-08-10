@@ -1,0 +1,9 @@
+@nsobid-168DD518D925C7A327677286E72FEDA833314919
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Unlimited Amiibo (Port to Update 1.1.1) by StevenssND
+@enabled
+0195A20C 14000014
+@stop

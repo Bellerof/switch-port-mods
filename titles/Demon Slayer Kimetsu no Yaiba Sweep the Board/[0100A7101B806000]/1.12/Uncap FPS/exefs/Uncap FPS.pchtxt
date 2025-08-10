@@ -1,0 +1,17 @@
+@nsobid-D5A1029A57D8CD4FDF4EACAD87B0CFD09012CD80
+
+# Demon Slayer -Kimetsu no Yaiba- Sweep the Board! [0100A7101B806000] - Uncap FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Uncap FPS
+
+@enabled
+0017F530 08008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

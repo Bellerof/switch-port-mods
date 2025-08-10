@@ -1,0 +1,16 @@
+@nsobid-59AF76C13F680B7CBF3C7BEFD163DFC5586CD2C7
+
+# Hitman: Blood Money - Reprisal [010083A018262000] v1.2_71586 - Uncap FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+001A5B18 C0035FD6
+@stop
+
+@StevensND
+https://github.com/StevensND/switch-port-mods
+https://linktr.ee/stevenssv2

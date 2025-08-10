@@ -1,0 +1,17 @@
+@nsobid-5BCF525F24EB28658A8D67AC27800D9B0EE9BDD5
+
+# Mario & Luigi: Brothership [01006D0017F7A000] - Uncap FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+004499C8 08008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

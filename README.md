@@ -1,3 +1,6 @@
+> [!WARNING]
+> This fork is not intended to be used by people. It is meant to be processed by code.
+
 ## switch-port-mods
 
 Everything here is **tested on emulators** (Yuzu/Ryujinx) and using a PC **(I don't use Steam Deck or Android)**. I don't know the perfomance on real hardware (Switch).

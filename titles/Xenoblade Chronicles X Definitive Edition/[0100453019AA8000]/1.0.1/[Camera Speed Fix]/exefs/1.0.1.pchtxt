@@ -1,0 +1,23 @@
+@nsobid-3F2425864CF226844511065F77AA3E36FB5FC33F
+
+# Xenoblade Chronicles X Definitive Edition [0100453019AA8000] v1.0.1 - camspeed
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Fix camera speed
+
+@enabled
+000ab510 7e925d14
+0180ff08 12000090
+0180ff0c 1F2003D5
+0180ff10 48224FBD
+0180ff14 1F2003D5
+0180ff18 1F2003D5
+0180ff1c 7f6da217
+0180ff20 88c3e43c
+@stop
+
+@Fl4sh_#9174
+https://github.com/Fl4sh9174
+https://Ko-fi.com/Fl4sh9174
