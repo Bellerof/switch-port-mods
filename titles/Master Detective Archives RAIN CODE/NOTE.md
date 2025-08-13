@@ -1,1 +1,0 @@
-I'm not sure what to do with the "Resolution Mods.zip" archives.
